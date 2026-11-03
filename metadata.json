@@ -1,0 +1,6 @@
+{
+  "name": "PulseForge AI — YouTube & Facebook Content Automation OS",
+  "description": "Complete end-to-end YouTube and Facebook AI content automation system covering trend intelligence, 7-factor idea scoring, fact-checking, multi-format scriptwriting, creative production, 8-point video QC, authorized publishing, analytics optimization, community comment triage, and human approval gates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
